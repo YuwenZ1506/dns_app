@@ -16,4 +16,3 @@ curl -X PUT http://localhost:9090/register -H "Content-Type: application/json" -
 
 Then run the website to calculate any Fibonacci number of any digit.
 http://localhost:8080/fibonacci?hostname=fibonacci.com&fs_port=9090&number=6&as_ip= IP address 
-![image](https://github.com/user-attachments/assets/7e77b8a8-96cc-460c-945f-8e47000ecb72)
